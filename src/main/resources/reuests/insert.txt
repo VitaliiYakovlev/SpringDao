@@ -1,0 +1,69 @@
+{
+  "name": "albumName 1",
+  "releaseYear": 2000,
+  "genre": "nu metal",
+  "musicGroup": "the Prodigy"
+}
+
+{
+  "name": "fff",
+  "releaseYear": 2003,
+  "genre": "melodic death metal",
+  "musicGroup": "slipknot"
+}
+
+{
+  "name": "asdfsad",
+  "releaseYear": 2009,
+  "genre": "grunge",
+  "musicGroup": "Suicide Silence"
+}
+
+{
+  "name": "442421",
+  "releaseYear": 1999,
+  "genre": "ambient",
+  "musicGroup": "pendulum"
+}
+
+{
+  "name": "albumName",
+  "releaseYear": 1998,
+  "genre": "metalcore",
+  "musicGroup": "The chemical Brothers"
+}
+
+{
+  "name": "album",
+  "releaseYear": 1990,
+  "genre": "post-rock",
+  "musicGroup": "Nirvana"
+}
+
+{
+  "name": "My albumName",
+  "releaseYear": 2020,
+  "genre": "post-grunge",
+  "musicGroup": "Asking Alexandria"
+}
+
+{
+  "name": "fdfdfdaaA",
+  "releaseYear": 2013,
+  "genre": "drum'n'base",
+  "musicGroup": "Yellowcard"
+}
+
+{
+  "name": "666666",
+  "releaseYear": 1993,
+  "genre": "trance",
+  "musicGroup": "shinedown"
+}
+
+{
+  "name": "ttttttt",
+  "releaseYear":  1995,
+  "genre": "alternative rock",
+  "musicGroup": "Bullet for My Valentine"
+}

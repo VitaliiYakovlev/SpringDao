@@ -1,0 +1,10 @@
+http://localhost:8080/dal/get-music-album?name=Music%20for%20The%20Jilted%20generation
+http://localhost:8080/dal/get-music-album?name=Young%20Mountain
+http://localhost:8080/dal/get-music-album?name=Push%20the%20Button&name=No%20Tourists
+http://localhost:8080/dal/get-music-album?name=The%20Black%20Market&name=Ocean%20Avenue
+http://localhost:8080/dal/get-music-album?name=Animals%20As%20Leaders&name=weightless&name=The%20Poison
+http://localhost:8080/dal/get-music-album?name=Trauma&name=Stand%20Up%20and%20Scream&name=Fever
+http://localhost:8080/dal/get-music-album?name=Bleach&name=In%20utero&name=Lifelines&name=Like%20a%20House%20on%20Fire
+http://localhost:8080/dal/get-music-album?name=Immersion&name=In%20Silico&name=Another%20Language&name=Outsider
+http://localhost:8080/dal/get-music-album?name=Infest&name=Lovehatetragedy&name=Getting%20Away%20with%20Murder&name=Embrace&name=ImaginE
+http://localhost:8080/dal/get-music-album?name=nevermind&name=The%20Fat%20of%20the%20Land&name=iowa&name=we%20are%20Not%20Your%20Kind&name=ToxicitY

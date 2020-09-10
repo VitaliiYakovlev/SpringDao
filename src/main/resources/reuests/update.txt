@@ -1,0 +1,71 @@
+{
+  "oldName": "albumName 1",
+  "oldMusicGroup": "the Prodigy",
+  "name": "new albumName 1000",
+  "releaseYear": 2009,
+  "genre": "grunge",
+  "musicGroup": "slipknot"
+}
+
+{
+  "oldName": "fff",
+  "oldMusicGroup": "slipknot",
+  "name": "fff new",
+  "releaseYear": 1991,
+  "genre": "punk rock",
+  "musicGroup": "the Prodigy"
+}
+
+{
+  "oldName": "asdfsad",
+  "oldMusicGroup": "Suicide Silence",
+  "musicGroup": "Armin van Buuren"
+}
+
+{
+  "oldName": "442421",
+  "oldMusicGroup": "pendulum",
+  "genre": "metalcore"
+}
+
+{
+  "oldName": "albumName",
+  "oldMusicGroup": "The chemical Brothers",
+  "name": "very new albumName"
+}
+
+{
+  "oldName": "album",
+  "oldMusicGroup": "Nirvana",
+  "releaseYear": 1992
+}
+
+{
+  "oldName": "My albumName",
+  "oldMusicGroup": "Asking Alexandria",
+  "name": "My albumName changed",
+  "genre": "big beat"
+}
+
+{
+  "oldName": "fdfdfdaaA",
+  "oldMusicGroup": "Yellowcard",
+  "releaseYear": 2019,
+  "musicGroup": "In Flames"
+}
+
+{
+  "oldName": "666666",
+  "oldMusicGroup": "shinedown",
+  "releaseYear": 1997,
+  "genre": "deathcore",
+  "musicGroup": "I Prevail"
+}
+
+{
+  "oldName": "ttttttt",
+  "oldMusicGroup": "Bullet for My Valentine",
+  "name": "ttttttt 2222",
+  "genre": "trance",
+  "musicGroup": "Papa Roach"
+}

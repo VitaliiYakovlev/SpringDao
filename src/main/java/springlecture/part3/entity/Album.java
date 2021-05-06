@@ -1,6 +1,7 @@
 package springlecture.part3.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import javax.persistence.*;
@@ -8,6 +9,7 @@ import javax.persistence.*;
 @Data
 @Entity
 @NoArgsConstructor
+@AllArgsConstructor
 @Table(name = "albums",
         uniqueConstraints = {@UniqueConstraint(columnNames = {"name", "music_group_id"})})
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})

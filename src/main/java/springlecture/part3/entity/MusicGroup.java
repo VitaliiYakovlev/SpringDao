@@ -3,6 +3,7 @@ package springlecture.part3.entity;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 import javax.persistence.*;
 import java.util.Set;
@@ -10,6 +11,7 @@ import java.util.Set;
 @Data
 @Entity
 @Table(name = "music_groups")
+@NoArgsConstructor
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class MusicGroup {
 
@@ -31,4 +33,11 @@ public class MusicGroup {
     @ToString.Exclude
     @EqualsAndHashCode.Exclude
     private Set<Album> albums;
+
+    public MusicGroup(Long id, String name, short yearCreation, Short yearDecay) {
+        this.id = id;
+        this.name = name;
+        this.yearCreation = yearCreation;
+        this.yearDecay = yearDecay;
+    }
 }

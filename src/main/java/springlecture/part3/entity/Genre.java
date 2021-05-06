@@ -25,4 +25,9 @@ public class Genre {
     @ToString.Exclude
     @EqualsAndHashCode.Exclude
     private Set<Album> albums;
+
+    public Genre(Long id, String name) {
+        this.id = id;
+        this.name = name;
+    }
 }
